@@ -18,4 +18,4 @@ $ python3 metric.py image/Original.bmp image/Result.bmp
 
 Image Size = 4176x2073,  Time duration = 12.879 sec => ~0.67 megapixel/second\
 MSE =  85.40340687511205\
-PSNR =  28.816051651490483\
+PSNR =  28.816051651490483
