@@ -7,7 +7,7 @@
 Компиляция и запуск: (linux)
 ```sh
 $ g++ main.cpp restorer.cpp ppg.cpp
-$ ./a.put images/RGB_CFA.bmp images/Result.bmp
+$ ./a.out images/RGB_CFA.bmp images/Result.bmp
 ```
 
 ## PSNR
